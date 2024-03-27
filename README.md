@@ -21,4 +21,4 @@ O projeto está estruturado da seguinte forma:
 - **update.php**: Página para editar registros existentes no banco de dados.
 - **delete.php**: Página para excluir registros do banco de dados.
 - **connection.php**: Arquivo de configuração contendo as informações de conexão com o banco de dados.
-- **/styles**: Arquivo que contém os estilos do preojeto.
+- **/styles**: Arquivo que contém os estilos do projeto.
